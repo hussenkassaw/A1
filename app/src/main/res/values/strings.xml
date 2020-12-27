@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment First</string>
+    <string name="txt">0</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="count">Count</string>
+    <string name="hello">Hello</string>
+</resources>
