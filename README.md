@@ -1,8 +1,9 @@
 # A1
 Assignment One
-1. C
-2. D
-3. B
-4. D
-5. D
+<br>
+1. C<br>
+2. D<br>
+3. B<br>
+4. D<br>
+5. D<br><br>
 hussen kassaw 1226
